@@ -1,0 +1,7 @@
+{
+  "name": "gg",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://www.google.com/$1"}
+  ]
+}
